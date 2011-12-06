@@ -1,0 +1,13 @@
+name: GoldenPVP
+main: me.polaris120990.GoldenPVP.GoldenPVP
+version: 1.0
+author: polaris120990
+description: >
+             Changes Gamemode.
+commands:
+   kdr:
+      description: Checks kill to death ratio.
+   kdrtop:
+      description: Gives top 10 kill to death ratios.
+   bounty:
+      description: Bounty related commands.

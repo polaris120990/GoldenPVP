@@ -1,0 +1,1 @@
+This is a Bukkit Plugin created privately for Golden's PVP server.
